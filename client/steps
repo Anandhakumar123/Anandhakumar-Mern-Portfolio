@@ -1,0 +1,5 @@
+npm create vite@latest client
+
+tailwind setup
+
+npm i react-router-dom
